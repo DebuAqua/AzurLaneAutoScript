@@ -1,22 +1,22 @@
 
 # AzurLaneAutoScript
 
-#### Discord [![](https://img.shields.io/discord/720789890354249748?logo=discord&logoColor=ffffff&color=4e4c97)](https://archive.ph/R0O5l) QQ群  ![](https://img.shields.io/badge/QQ%20Group-1087735381-4e4c97)
+#### Discord [![](https://img.shields.io/discord/720789890354249748?logo=discord&logoColor=ffffff&color=4e4c97)](https://web.archive.org/web/20220501015917/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F8ed27b10deb4a3e0a51a72df88e62460a44a8650) QQ群  [![](https://img.shields.io/badge/QQ%20Group-1087735381-4e4c97)](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)
 Alas, an Azur Lane automation tool with GUI (Supports CN, EN, JP, TW, able to support other servers), designed for 24/7 running scenes, can take over almost all Azur Lane gameplay. Azur Lane, as a mobile game, has entered the late stage of its life cycle. During the period from now to the server down, please reduce the time spent on the Azur Lane and leave everything to Alas.
 
-Alas is a free open source software, link: [https://github.com/LmeSzinc/AzurLaneAutoScript](https://web.archive.org/web/20220430151939/https://github.com/LmeSzinc/AzurLaneAutoScript/blob/master/module/config/config.py)
+Alas is a free open source software, link: [https://github.com/LmeSzinc/AzurLaneAutoScript](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)
 
 Alas，一个带GUI的碧蓝航线脚本（支持国服, 国际服, 日服, 台服, 可以支持其他服务器），为 7x24 运行的场景而设计，能接管近乎全部的碧蓝航线玩法。碧蓝航线，作为一个手游，已经进入了生命周期的晚期。从现在到关服的这段时间里，请减少花费在碧蓝航线上的时间，把一切都交给 Alas。
 
-Alas 是一款免费开源软件，地址：[https://github.com/LmeSzinc/AzurLaneAutoScript](https://archive.ph/R0O5l)
+Alas 是一款免费开源软件，地址：[https://github.com/LmeSzinc/AzurLaneAutoScript](https://web.archive.org/web/20220501015917/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F8ed27b10deb4a3e0a51a72df88e62460a44a8650)
 
-EN support, thanks **[@whoamikyo](https://archive.ph/R0O5l)** and **[@nEEtdo0d](https://archive.ph/R0O5l)**.
+EN support, thanks **[@whoamikyo](https://archive.ph/R0O5l)** and **[@nEEtdo0d](https://web.archive.org/web/20220501015917/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F8ed27b10deb4a3e0a51a72df88e62460a44a8650)**.
 
-JP support, thanks **[@ferina8-14](https://web.archive.org/web/20220430151939/https://github.com/LmeSzinc/AzurLaneAutoScript/blob/master/module/config/config.py)**, **[@noname94](https://web.archive.org/web/20220430151939/https://github.com/LmeSzinc/AzurLaneAutoScript/blob/master/module/config/config.py4)** and **[@railzy](https://web.archive.org/web/20220430151939/https://github.com/LmeSzinc/AzurLaneAutoScript/blob/master/module/config/config.py)**.
+JP support, thanks **[@ferina8-14](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)**, **[@noname94](https://web.archive.org/web/20220430151939/https://github.com/LmeSzinc/AzurLaneAutoScript/blob/master/module/config/config.py4)** and **[@railzy](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)**.
 
-TW support, thanks **[@Zorachristine](https://archive.ph/R0O5l)** , some features might not work.
+TW support, thanks **[@Zorachristine](https://web.archive.org/web/20220501015917/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F8ed27b10deb4a3e0a51a72df88e62460a44a8650)** , some features might not work.
 
-GUI development, thanks **[@18870](https://archive.ph/R0O5l)** , say HURRAY.
+GUI development, thanks **[@18870](https://web.archive.org/web/20220501015917/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F8ed27b10deb4a3e0a51a72df88e62460a44a8650)** , say HURRAY.
 
 
 ![gui](doc/README.assets/gui.png)
@@ -40,9 +40,9 @@ GUI development, thanks **[@18870](https://archive.ph/R0O5l)** , say HURRAY.
 
 
 
-## 安装 Installation [![](https://img.shields.io/github/downloads/LmeSzinc/AzurLaneAutoScript/total?color=4e4c97)](https://web.archive.org/web/20220430151939/https://github.com/LmeSzinc/AzurLaneAutoScript/blob/master/module/config/config.py)
+## 安装 Installation [![](https://img.shields.io/github/downloads/LmeSzinc/AzurLaneAutoScript/total?color=4e4c97)](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)
 
-详见 [中文安装教程](https://archive.ph/R0O5l)，包含自动安装教程，使用教程，手动安装教程，远程控制教程。
+详见 [中文安装教程](https://web.archive.org/web/20220501015917/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F8ed27b10deb4a3e0a51a72df88e62460a44a8650)，包含自动安装教程，使用教程，手动安装教程，远程控制教程。
 
 
 
@@ -95,7 +95,7 @@ GUI development, thanks **[@18870](https://archive.ph/R0O5l)** , say HURRAY.
 
 在提问题之前至少花费 5 分钟来思考和准备，才会有人花费他的 5 分钟来帮助你。"XX怎么运行不了"，"XX卡住了"，这样的描述将不会得到回复。
 
-- 在提问题前，请先阅读 [常见问题(FAQ)](https://archive.ph/R0O5l)。
+- 在提问题前，请先阅读 [常见问题(FAQ)](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)。
 - 检查 Alas 的更新和最近的 commit，确认使用的是最新版。
 - 上传出错 log，在 `log/error` 目录下，以毫秒时间戳为文件夹名，包含 log.txt 和最近的截图。若不是错误而是非预期的行为，提供在 `log` 目录下当天的 log和至少一张游戏截图。
 
@@ -117,13 +117,13 @@ GUI development, thanks **[@18870](https://archive.ph/R0O5l)** , say HURRAY.
 - **不支持 MuMu 模拟器 9**，因为它截图是黑屏。
 - **不建议使用雷电模拟器**，因为它的 serial 会在 `emulator-555X` 和 `127.0.0.1:555X` 之间横跳，导致无法连接，如果不想折腾就不要用雷电模拟器。
 - **不建议使用逍遥模拟器**，因为它不支持 minitouch 双指缩放和长按，无法进行收集后宅爱心家具币和喂食。在逍遥模拟器下使用需要将控制方式设置为 uiautomator2 或关闭后宅功能。
-- **建议使用 [夜神模拟器](https://web.archive.org/web/20220430151939/https://github.com/LmeSzinc/AzurLaneAutoScript/blob/master/module/config/config.py) 或 [蓝叠模拟器](https://archive.ph/R0O5l)**。CN 开发正在使用夜神模拟器，EN 开发和大部分 EN 用户正在使用蓝叠模拟器，建议使用这两款模拟器。
+- **建议使用 [夜神模拟器](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c 或 [蓝叠模拟器](https://web.archive.org/web/20220501015917/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F8ed27b10deb4a3e0a51a72df88e62460a44a8650)**。CN 开发正在使用夜神模拟器，EN 开发和大部分 EN 用户正在使用蓝叠模拟器，建议使用这两款模拟器。
 
 
 
 ## 文档 Documents
 
-[海图识别 perspective](https://web.archive.org/web/20220430151939/https://github.com/LmeSzinc/AzurLaneAutoScript/blob/master/module/config/config.py)
+[海图识别 perspective](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)
 
 `海图识别` 是一个碧蓝航线脚本的核心，如果只是单纯地使用 `模板匹配 (Template matching)` 来进行索敌，就不可避免地会出现 BOSS被小怪堵住 的情况。 Alas 提供了一个更好的海图识别方法，在 `module.map_detection` 中，你将可以得到完整的海域信息，比如：
 
@@ -136,15 +136,15 @@ GUI development, thanks **[@18870](https://archive.ph/R0O5l)** , say HURRAY.
 2020-03-10 22:09:03.830 | INFO | 5 -- -- -- 2E -- 2E ++ ++
 ```
 
-开发文档，请前往 [WIKI](https://archive.ph/R0O5l)。
+开发文档，请前往 [WIKI](https://web.archive.org/web/20220501015917/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F8ed27b10deb4a3e0a51a72df88e62460a44a8650)。
 
 
 
 ## 相关项目 Relative Repositories
 
-- [AzurStats](https://web.archive.org/web/20220430151939/https://github.com/LmeSzinc/AzurLaneAutoScript/blob/master/module/config/config.py)，基于 Alas 实现的碧蓝航线掉落统计平台。
-- [AzurLaneUncensored](https://archive.ph/R0O5l)，与 Alas 对接的碧蓝航线反和谐。
-- [ALAuto](https://web.archive.org/web/20220430151939/https://github.com/LmeSzinc/AzurLaneAutoScript/blob/master/module/config/config.py)，EN服的碧蓝航线脚本，已不再维护，Alas 模仿了其架构。
-- [ALAuto homg_trans_beta](https://archive.ph/R0O5l)，Alas 引入了其中的单应性变换至海图识别模块中。
-- [PyWebIO](https://web.archive.org/web/20220430151939/https://github.com/LmeSzinc/AzurLaneAutoScript/blob/master/module/config/config.py)，Alas 使用的 GUI 库。
+- [AzurStats](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)，基于 Alas 实现的碧蓝航线掉落统计平台。
+- [AzurLaneUncensored](https://web.archive.org/web/20220501015917/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F8ed27b10deb4a3e0a51a72df88e62460a44a8650)，与 Alas 对接的碧蓝航线反和谐。
+- [ALAuto](https://web.archive.org/web/20220501015917/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F8ed27b10deb4a3e0a51a72df88e62460a44a8650)，EN服的碧蓝航线脚本，已不再维护，Alas 模仿了其架构。
+- [ALAuto homg_trans_beta](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)，Alas 引入了其中的单应性变换至海图识别模块中。
+- [PyWebIO](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)，Alas 使用的 GUI 库。
 
