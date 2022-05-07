@@ -120,26 +120,6 @@ GUI development, thanks **[@18870](https://web.archive.org/web/20220501015917/ht
 - **建议使用 [夜神模拟器](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c) 或 [蓝叠模拟器](https://web.archive.org/web/20220501015917/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F8ed27b10deb4a3e0a51a72df88e62460a44a8650)**。CN 开发正在使用夜神模拟器，EN 开发和大部分 EN 用户正在使用蓝叠模拟器，建议使用这两款模拟器。
 
 
-
-## 文档 Documents
-
-[海图识别 perspective](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)
-
-`海图识别` 是一个碧蓝航线脚本的核心，如果只是单纯地使用 `模板匹配 (Template matching)` 来进行索敌，就不可避免地会出现 BOSS被小怪堵住 的情况。 Alas 提供了一个更好的海图识别方法，在 `module.map_detection` 中，你将可以得到完整的海域信息，比如：
-
-```
-2020-03-10 22:09:03.830 | INFO |    A  B  C  D  E  F  G  H
-2020-03-10 22:09:03.830 | INFO | 1 -- ++ 2E -- -- -- -- --
-2020-03-10 22:09:03.830 | INFO | 2 -- ++ ++ MY -- -- 2E --
-2020-03-10 22:09:03.830 | INFO | 3 == -- FL -- -- -- 2E MY
-2020-03-10 22:09:03.830 | INFO | 4 -- == -- -- -- -- ++ ++
-2020-03-10 22:09:03.830 | INFO | 5 -- -- -- 2E -- 2E ++ ++
-```
-
-开发文档，请前往 [WIKI](https://web.archive.org/web/20220501015917/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F8ed27b10deb4a3e0a51a72df88e62460a44a8650)。
-
-
-
 ## 相关项目 Relative Repositories
 
 - [AzurStats](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)，基于 Alas 实现的碧蓝航线掉落统计平台。
