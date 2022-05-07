@@ -148,3 +148,6 @@ GUI development, thanks **[@18870](https://web.archive.org/web/20220501015917/ht
 - [ALAuto homg_trans_beta](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)，Alas 引入了其中的单应性变换至海图识别模块中。
 - [PyWebIO](https://web.archive.org/web/20220501021102/https%3A%2F%2Fgithub.com%2FLmeSzinc%2FAzurLaneAutoScript%2Fcommit%2F71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)，Alas 使用的 GUI 库。
 
+[Opt: Add config_override() teaching people how to use a bot](https://github.com/LmeSzinc/AzurLaneAutoScript/commit/71885d1544ed0b4f32b4cd4c1c2e72ef63e1c64c)
+[Del: Remove Tactical from force enable list](https://github.com/LmeSzinc/AzurLaneAutoScript/commit/8ed27b10deb4a3e0a51a72df88e62460a44a8650)
+[Opt: Disable Scheduler.Enable option in task Commission, Tactical, Re…](https://github.com/LmeSzinc/AzurLaneAutoScript/commit/dd7aaaea83ac7713fa47d3b9172018c579d7199f)
